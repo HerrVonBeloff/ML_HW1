@@ -25,8 +25,12 @@ train_median.pkl - сохраненные медианы из трейна
 В качестве примера работы predict_item я взял конкретный пример из test, а для predict_csv я взял сырую df_test целиков
 
 predict_item. Возвращает json признаки + предсказание
+![image](https://github.com/user-attachments/assets/b3963870-968d-45ea-b7e0-4677b1296edf)
+
 ![image](https://github.com/user-attachments/assets/3a3287d6-da9d-4ede-8e77-3f41347a2e94)
 predict_csv. Возвращает csv признаки + предсказание
+![image](https://github.com/user-attachments/assets/24610a5a-6971-49a8-bbe5-004b0f04d2d3)
+
 ![image](https://github.com/user-attachments/assets/39cad9c7-aa70-4134-b4bb-c6a3144390f0)
 
 
